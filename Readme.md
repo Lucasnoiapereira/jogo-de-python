@@ -1,3 +1,3 @@
-# Projeto de Jogo de Forca
+# Projeto de Jogos
 
-Projeto de um jogo de forca com todas as funcionalidades básicas
+Projeto de diferentes jogos basicos usando simples comandos de python
