@@ -25,5 +25,5 @@ def computadorAdvinha(x):
         elif atualizacao == 'b':
             numero_max = tentativa_computador - 1
     print(f"Seu numero eh {tentativa_computador}")
-computadorAdvinha(10)
-advinha(10)
+computadorAdvinha(1000)
+advinha(100)

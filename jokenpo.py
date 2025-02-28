@@ -3,7 +3,7 @@ import random
 
 def jogar():
     usuario = input('O que voce deseja jogar? pedra, papel ou tesoura: ')
-    maquinha = random.choice(['p', 't', 'pa'])
+    maquinha = random.choice(['pedra', 'tesoura', 'papel'])
     if usuario == maquinha:
         return 'É um empate!!'
     if vitoria(usuario, maquinha):
